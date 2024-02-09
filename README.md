@@ -20,3 +20,6 @@ Site que diz se pode usar uma determinada funcionalidade do browser ou não, no 
 - [aula 1](https://youtu.be/oHRhNas5MtY)
 - [aula 2](https://youtu.be/8TydWjnb0_s)
 - [aula 3](https://youtu.be/juqyYfuOVjM)
+
+## Material apoio
+[Notion](https://efficient-sloth-d85.notion.site/ReactJS-3a14f6311fbd481eae78462c5a06e9db)
